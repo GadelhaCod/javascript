@@ -1,1 +1,0 @@
-alert ( "Prova de milhões!!!" ) ;
