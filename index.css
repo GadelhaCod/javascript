@@ -24,6 +24,7 @@ h1{
     margin-inline-end: 0em;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-h2{
-    
+button{
+  margin-top: 15px;  
+  margin-bottom: 5px;
 }
