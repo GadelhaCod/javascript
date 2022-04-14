@@ -1,6 +1,5 @@
 body{
     background-color: rgb(196, 183, 4);
-    
     padding: 20px;
     margin: auto;
     border-radius: 10px;
@@ -9,7 +8,7 @@ body{
 main{
     background-color: white;
     min-width:120px;
-    max-width:500px;
+    max-width:400px;
     padding: 20px;
     margin: auto;
     border-radius: 10px;
